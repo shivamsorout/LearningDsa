@@ -193,7 +193,7 @@ public class ReverseLinkedList {
         ll.print();
 //        System.out.println("ans " + ll.resursiveSearch(5));
 //        ll.print();
-//        ll.reverseLinkedList();
+        ll.reverseLinkedList();
 //        ll.print();
         ll.removeNthNodeFromLast(3);
         ll.print();
